@@ -13,3 +13,5 @@ crontab -e
 */15 * * * * /home/ddnspi/getip.sh
 ```
 每15分钟执行一次脚本
+
+## End
